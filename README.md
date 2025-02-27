@@ -1,8 +1,8 @@
 
 # Improving the Quality of Video Captions for the DHH Community Using LLM
 [![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4774-d45815.svg)](https://doi.org/10.18419/darus-4774)
-[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4774-d45815.svg)](https://doi.org/10.18419/darus-4775)
-[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4774-d45815.svg)](https://doi.org/10.18419/darus-4776)
+[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4775-d45815.svg)](https://doi.org/10.18419/darus-4775)
+[![Identifier](https://img.shields.io/badge/doi-10.18419%2Fdarus--4776-d45815.svg)](https://doi.org/10.18419/darus-4776)
 
 In an era saturated with digital content, ensuring universal accessibility, particularly for the DHH community, is of utmost significance. Captions are an essential component for the DHH community to access audiovisual resources. Nevertheless, they encounter substantial challenges while trying to access online video material.  While captions have improved accessibility to some degree, the existing captioning methods, often fail to capture the exact meaning and the context. This inadequacy might also cause the distorted meaning or omitting of the essential information that will disrupt the accessibility of the content to DHH communicators. So the project aims to use the capabilities of LLM to improve the quality of video captions.
 
